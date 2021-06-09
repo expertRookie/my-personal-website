@@ -1,6 +1,8 @@
 ---
 title: my cool porject
 subtitle: subitlte to explain rpject
+tags:
+- Enlightenment
 date: 2021-06-09T08:42:35.223Z
 summary: summary of preojct
 draft: false
